@@ -1,0 +1,6 @@
+#ifndef CATEGORIES_H_INCLUDED
+#define CATEGORIES_H_INCLUDED
+
+
+
+#endif
