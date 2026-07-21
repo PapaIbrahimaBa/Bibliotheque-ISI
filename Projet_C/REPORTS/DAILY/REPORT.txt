@@ -1,0 +1,10 @@
+===== RAPPORT JOURNALIER =====
+
+Nombre emprunts : 5
+Nombre retours : 3
+Nombre reservations : 2
+Nombre nouveaux utilisateurs : 1
+Nombre penalites : 0
+Montant total : 0 FCFA
+Livre le plus emprunte : Programmation C
+Utilisateur le plus actif : Moussa Balde
