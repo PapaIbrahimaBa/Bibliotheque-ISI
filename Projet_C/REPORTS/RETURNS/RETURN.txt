@@ -1,0 +1,6 @@
+******** RECU DE RETOUR ********
+
+Numero : EMP001
+Livre : Programmation C
+Retard : 0 jour
+Penalite : 0 FCFA
