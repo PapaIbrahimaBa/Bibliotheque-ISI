@@ -1,6 +1,16 @@
-#ifndef RETURNS_H_INCLUDED
-#define RETURNS_H_INCLUDED
+#ifndef RETURNS_H
+#define RETURNS_H
 
+typedef struct
+{
+    int idRetour;
+    int idEmprunt;
+    char dateRetourReelle[20];
+    int joursRetard;
+    int montantPenalite;
+} Retour;
 
+void retournerLivre();
+void afficherRetours();
 
 #endif
