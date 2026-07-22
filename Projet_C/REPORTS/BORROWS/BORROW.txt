@@ -1,0 +1,7 @@
+******** RECU D'EMPRUNT ********
+
+Numero : EMP001
+Lecteur : Moussa Balde
+Livre : Programmation C
+Auteur : Inconnu
+ISBN : 9781234567890
