@@ -15,6 +15,24 @@ typedef struct
     char etat[10];
     char dateCreation[25];
     char dernierConnexion[25];
-} User;
+}User;
+
+int faireId();
+int loginExiste(char login[]);
+int loginValide(char login[]);
+void DateActuelle(char date[]);
+void crypter(char mdp[]);
+void AjoutUtilisateur();
+void CreerAdministrateur();
+void afficherUtilisateur();
+void rechercherUtilisateur();
+void modifierUtilisateur();
+void supUtilisateur();
+void BloquerUtilisateur();
+void DebloquerUtilisateur();
+void connexion();
+void deconnexion();
+void Menu();
+void Operation();
 
 #endif
